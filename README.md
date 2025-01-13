@@ -29,3 +29,6 @@ Log in into your [Google Colab](https://colab.research.google.com) and execute t
 git clone https://github.com/rpezoa/ML-HEP-School.git
 cd ML-HEP-School
 
+## 🧑‍🏫 About
+
+This repository is maintained by **Raquel Pezoa**. Feel free to reach out for questions, suggestions, or collaborations!
