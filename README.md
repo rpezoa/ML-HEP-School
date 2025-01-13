@@ -20,7 +20,12 @@ Interactive Jupyter notebooks covering the following topics:
 
 ## 🛠️ Setup Instructions
 
-### **1. Clone the Repository**
-```bash
+### **1. Easy way**
+Log in into your [Google Colab](https://colab.research.google.com) and execute ther the Jupyter notebooks.
+
+
+
+### **2. Clone the Repository**
 git clone https://github.com/rpezoa/ML-HEP-School.git
 cd ML-HEP-School
+
